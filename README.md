@@ -52,11 +52,13 @@ New York City seems to be the outlier with more than 57% difference from Houston
 #### Map of top 10 states hiring the most.  
 
 
-![mapstates](https://cloud.githubusercontent.com/assets/22155935/24691411/490c85cc-19a1-11e7-88be-6671c18e0b34.png)  
+![mapstates1](https://cloud.githubusercontent.com/assets/22155935/24716881/730e8606-19fe-11e7-8ae8-3d1a492e5b43.png)  
+
 
 #### Map of top 25 cities hiring the most.  
 
-![mapcities](https://cloud.githubusercontent.com/assets/22155935/24691421/580c836a-19a1-11e7-9485-3dc7ea9c71dd.png)  
+![mapcities2](https://cloud.githubusercontent.com/assets/22155935/24716888/7ab60b2c-19fe-11e7-93c5-74c488acbab4.png)  
+
 
 #### What is the average salary for certified foreign workers with H-1B visas?  
 
@@ -77,15 +79,20 @@ Visualizing top 25 job titles for each given year.
 
 #### What is the difference in average payment for 'Certified' & 'Denied' cases?  
 
-![boxp](https://cloud.githubusercontent.com/assets/22155935/24712119/f3395450-19ef-11e7-983a-0e074a8573e5.png)  
+
+![bplot1](https://cloud.githubusercontent.com/assets/22155935/24716898/82937c62-19fe-11e7-96d8-4616560860d6.png)  
+
 
 #### What is the difference in average payment for 'Certified' & 'Denied' cases per each given year?  
 
-![bp](https://cloud.githubusercontent.com/assets/22155935/24712123/f8d84006-19ef-11e7-816f-6bed599caf1e.png)  
+![bplot2](https://cloud.githubusercontent.com/assets/22155935/24716904/87d29474-19fe-11e7-9650-320273c5b62c.png)  
+
 
 #### Conclusion
 
-* Most of the people certified with H-1B found jobs on metropolitan cities, mostley on the east & west coast
+
+* Most of the people certified with H-1B found jobs on metropolitan cities. 
+* Eight out of top ten states are located on the east & west coast of U.S.
 * These areas are also known as having a large number of businesses in technology.
 * Top job titles were computer related skills. 
 * Average wage per each given year for people certified with H-1B was always higher then those denied H-1B. 
@@ -93,6 +100,3 @@ Visualizing top 25 job titles for each given year.
 * Average wage per each given year for certified people with H-1B matches the US average wage for US citizens with an advance degree.  
 
 ---
-
-
-
