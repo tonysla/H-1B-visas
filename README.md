@@ -2,7 +2,7 @@
 
 ### Exploring dataset from kaggle.com on H-1B visas for froeign workers. 
 
-The codes for the visualizations below are in the .R file of this repository. This is my second time analyzing this type of data. The first time was more than a year ago with the data downloaded from United States Department of Labor. I used tableau then and the results are slightly different since that dataset included more variables and wider range of years. If interested for the difference between the two check [here](https://public.tableau.com/profile/elton.islamaj#!/vizhome/WhichforeignsareallowedtoworkinU_S_/Story1)  
+The codes for the visualizations below are in the `h-1b_visa.R` file of this repository. This is my second time analyzing this type of data. The first time was more than a year ago with the data downloaded from United States Department of Labor. I used `tableau` then and the results are slightly different since that dataset included more variables and wider range of years. If interested for the difference between the two check [here](https://public.tableau.com/profile/elton.islamaj#!/vizhome/WhichforeignsareallowedtoworkinU_S_/Story1)  
 
 ### Few things to know before exploring the data.
 
@@ -45,7 +45,9 @@ New York City seems to be the outlier with more than 57% difference from Houston
 
 #### Visualizing top 25 cities for each year.  
 
-![tcities](https://cloud.githubusercontent.com/assets/22155935/24691399/3ead3478-19a1-11e7-91cd-cebbc0d3c9ea.png)  
+
+![tcities](https://cloud.githubusercontent.com/assets/22155935/24712098/e2be0dfa-19ef-11e7-8e91-6910969bae29.png)  
+
 
 #### Map of top 10 states hiring the most.  
 
@@ -69,16 +71,17 @@ Visualizing top 25 job titles for all the years together.
 
 Visualizing top 25 job titles for each given year.  
 
-![jtitle](https://cloud.githubusercontent.com/assets/22155935/24691457/83608a0c-19a1-11e7-9e49-bc7cdf1f6267.png)  
+
+![jtitle](https://cloud.githubusercontent.com/assets/22155935/24712106/ea60e154-19ef-11e7-9cf9-9379bac5a6b1.png)  
+
 
 #### What is the difference in average payment for 'Certified' & 'Denied' cases?  
 
-![boxp](https://cloud.githubusercontent.com/assets/22155935/24691461/8b75e21e-19a1-11e7-965f-26e4cb95ae41.png)  
-
+![boxp](https://cloud.githubusercontent.com/assets/22155935/24712119/f3395450-19ef-11e7-983a-0e074a8573e5.png)  
 
 #### What is the difference in average payment for 'Certified' & 'Denied' cases per each given year?  
 
-![bp](https://cloud.githubusercontent.com/assets/22155935/24691465/91b157e4-19a1-11e7-99c1-9d0dbcb4ccdf.png)  
+![bp](https://cloud.githubusercontent.com/assets/22155935/24712123/f8d84006-19ef-11e7-816f-6bed599caf1e.png)  
 
 #### Conclusion
 
@@ -91,5 +94,5 @@ Visualizing top 25 job titles for each given year.
 
 ---
 
----
+
 
