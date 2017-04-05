@@ -33,7 +33,8 @@ Visualizing top 25 states for the total cases of H-1B visa issued between the ye
 California seems to be the outlier among the other states.   
 Let's plot again top 25 states hiring the most but for each year seperatly.  
 
-![tstate](https://cloud.githubusercontent.com/assets/22155935/24691372/0e6bbf14-19a1-11e7-8898-27c6868b7079.png)  
+![tstate](https://cloud.githubusercontent.com/assets/22155935/24711386/d3520e2c-19ed-11e7-8f8f-abc1beaf2eea.png)  
+
 
 #### In which cities were the foreign workers able to find jobs?
 
